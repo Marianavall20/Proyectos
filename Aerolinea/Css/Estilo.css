@@ -1,0 +1,62 @@
+body{background-image: url(aviones.jpg);}
+table{
+border-radius: 5px ;
+background-color: rgba(20, 55, 70,.7);
+width: 25%;
+border: solid 2px;
+}
+.avion{margin-left: 500px;
+margin-top: -250px;}
+.tripulacion{margin-left: 900px;
+margin-top: -550px;}
+.personal{margin-left: 500px;
+margin-top: -150px;}
+.pasajeros{margin-top: 100px;
+margin-left: 50px;}
+.pasajes{margin-left: 900px;
+margin-top: -200px;}
+.vuelo{margin-left: 100px;}
+
+#header{margin: auto;
+width: 1000px;
+font-family: Verdana;}
+
+ul{list-style: none;}
+.nav li a{
+	background-color:rgba(20, 55, 70,.7);;
+	color:#fff;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+	margin-top: -20px;
+	margin: 1px;
+
+	}
+
+.nav li a:hover{
+	background-color: blue;
+}
+
+.nav > li{
+	float: left;
+}
+
+.nav li ul{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+	
+.nav li:hover> ul{
+	display: block;
+
+}
+
+.nav li ul li{
+	position: relative;
+}
+
+.nav li ul li ul{
+	right: -130px;
+	top: 0px;
+}
