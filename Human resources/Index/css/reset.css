@@ -1,0 +1,31 @@
+*{
+	font-family:Roboto,sans-serif;}
+	html, body, div, span,
+
+a, ol, ul, li,
+fieldset, form, label {
+	margin: 0;
+	margin-left:0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+
+}
+a {
+	text-decoration: none;
+}
+ul li a:hover{
+	color: #00b19c;
+}
+
+.container img{
+    margin-left: -150px;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="modal.css">
+<script type="text/javascript" src="jquery-3.1.1.min">  
+</script>
+<script type="text/javascript">
+  funtion openVentana(){
+    $(".ventana").slideDown("slow");
+
+  }
+</script>
+</head>
+<body>
+
+<div class="container">
+  <div class="ventana">
+    <h1 >Ventana modal</h1>
+    <div class="form">
+    <div class="cerrar">Cerrar</div>
+    <h1>Formulario login</h1>
+    <hr>
+    <form>
+       <table>
+        <tr>
+          <td>Nombre</td>
+          <td><input type="text" placeholder="Ingresa tu nombre" name=""></td>
+        </tr> 
+        <tr>
+          <td>Password</td>
+          <td><input type="Password" placeholder="Ingresa tu contraseña" name=""></td>
+        </tr>
+        <tr>
+          <td>Password</td>
+          <td><input type="submit" value="Ingresar" name=""></td>
+        </tr>
+       </table>
+       </form>
+    </div>
+  </div>
+
+<h2><a href="javascript:openVentana();">Abrir</a></h2>
+</div>
+</body>
+</html>

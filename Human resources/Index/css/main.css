@@ -1,0 +1,52 @@
+/* ----- General Styling ----- */
+
+body {
+    font-family:Roboto,sans-serif;
+    
+}
+.bold_text {
+    font-weight: bold;
+}
+.blue_text {
+    color: #2aacc8;
+    font-size: 15px;
+}
+/* ----- General Styling ----- */
+/* ----- Header Styling ----- */
+
+#header {
+    background: #fff;
+    height: 80px;
+    box-shadow: 1px 5px 18px -12px #000;
+    position: fixed;
+    width: 100%;
+     z-index: 1000;
+    top: 0;
+    
+
+}
+#main_menu {
+    float: right;
+    margin-top: 32px;
+}
+.first_list {
+    float: left;
+    margin: 0 14px;
+}
+.main_menu_first {
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 8px 8px;
+    text-transform: uppercase;
+}
+.main_menu_first:active {
+    border-bottom: 2px solid #00b19c;
+
+}
+
+/* ----- Main Navigation Styling ----- */
+
+.menu-fixed ul a{
+    text-decoration: none;  
+}
