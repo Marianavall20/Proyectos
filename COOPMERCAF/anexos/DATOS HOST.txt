@@ -1,0 +1,31 @@
+www.coopmercaf.org
+
+sftp://coopmercaf.org
+usuario: user_coopmercaf
+contraseña: Hn8tt3XH
+
+Cuenta de correo:
+webmail.coopmercaf.org
+info@coopmercaf.org
+contraseña: Coopmercaf2015
+
+Base de datos:
+mysql.coopmercaf.org
+db_coopmercafjoomla
+usuario: user_coopmercaf
+contraseña: Coopmercaf2015
+
+Correo gmail: 
+coopmercafcaldas@gmail.com
+contraseña: Coopmercaf2015
+
+Facebook:
+https://www.facebook.com/pages/Coopmercaf/863338950397287
+usuario: coopmercafcaldas@gmail.com
+contraseña: Coopmercaf2015
+
+
+Canal Yotube:
+https://www.youtube.com/channel/UCUJ60gp6LMjCeGHchS8Nufg
+usuario: coopmercafcaldas@gmail.com
+contraseña: Coopmercaf2015

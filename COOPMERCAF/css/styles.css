@@ -1,0 +1,32 @@
+.logotipo {
+	width: 60%;
+}
+
+.vertical-menu {
+    width: 100%; /* Set a width if you like */
+}
+
+.vertical-menu a {
+    background-color: #fff; /* White background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+    background-color: #4CAF50; /* Green background on mouse-over */
+    color: white;
+}
+
+.btn-black {
+	background-color: #000;
+	color: #fff;
+}
+
+.especificos{
+
+    background-color: rgba(0,0,0,.7);
+    height:100%;
+    border-radius: 2%;
+}
