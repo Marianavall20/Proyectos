@@ -1,0 +1,83 @@
+*{
+	font-family:Roboto,sans-serif;
+
+}
+.empresa{
+	
+	max-height: auto;
+	width: 100%;
+	margin-top: 130px;
+	margin-bottom: 595px;		
+}
+.imagen1, .imagen2, .imagen3{
+    width: 135px;
+	height: 135px;
+	margin-bottom: 30px;
+	
+}
+ .filosofia{
+	
+	margin-bottom: 200px
+	
+	
+}
+
+
+p{
+	text-align: center;
+	font-family: lucida fax;
+	font-size: 30px;
+	padding: 10px;
+	
+}
+/*
+.mision{
+	width: 350px;
+	margin-top: 100px;
+	margin-left: -40px;
+	padding-right: 55px;
+	border-right: 2px solid #706A76;
+}
+
+.imagen1{
+	text-align: center;
+	width: 135px;
+	height: 135px;
+	margin-left:80px;
+	margin-bottom: 30px;
+}
+
+.vision{
+	width: 300px;
+	height: 329px;
+
+	position: relative;
+}
+
+.imagen2{margin-bottom: 30px;
+	width: 135px;
+	height: 135px;
+	margin-left: 80px;
+	margin-top: 108px;
+	
+}
+
+.filosofia{
+	width: 400px;
+	height: 329px;
+   text-align: center;
+   margin-left: 100px;
+	position: relative;
+	border-left: 2px solid #706A76;
+
+}
+
+.imagen3{
+
+	margin-bottom: 30px;
+	width: 135px;
+	height: 135px;
+	margin-left: 80px;
+	
+	
+}

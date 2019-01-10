@@ -1,0 +1,146 @@
+input{
+  font-size: 11px;
+  padding-top: 2px;
+  padding-left: 2px;
+  border: 0;
+  outline: none;
+    }
+h4{
+  margin-top:30px;
+  margin-left: -390px;
+  font-size: 12px;
+  }
+.btempresa{
+  margin-left:762px;
+  margin-top:-690px;
+}
+.btclausulas{
+  margin-left:850px;
+  margin-top:-550px;
+}
+.in{
+  border: 1px solid  #73879c;
+  border-style: dotted;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  width: 120px;
+  font-size:15px;
+  text-align:center;
+}
+.contrate{
+  font-size:16px;
+  color:#666666;
+  text-align:justify; 
+
+}
+h5{
+  margin-left:60px;
+}
+.nit{
+  border: 1px solid #73879c;
+  width:320px;
+  margin-left:50px;
+}
+.empresa{
+  border: 1px solid #73879c;
+  width:440px;
+  margin-left:50px;
+  margin-top:5px;
+}
+.nif{
+  border: 1px solid #73879c;
+  width:220px;
+  margin-left:490px;
+  margin-top:-25px;
+
+}
+.concepto{
+  border: 1px solid #73879c;
+  width:220px;
+  margin-left:710px;
+  margin-top:-25px;
+
+}
+.razon_social{
+  border: 1px solid #73879c;
+  width:440px;
+  margin-left:50px;
+  margin-top:0px;
+}
+.direccion{
+  border: 1px solid #73879c;
+  width:440px;
+  margin-left:490px;
+  margin-top:-25px;
+}
+.country{
+  border: 1px solid #73879c;
+  width:340px;
+  margin-left:50px;
+  margin-top:0px;
+}
+.town{
+  border: 1px solid #73879c;
+  width:320px;
+  margin-left:390px;
+  margin-top:-25px;
+
+}
+.postal{
+  border: 1px solid #73879c;
+  width:220px;
+  margin-left:710px;
+  margin-top:-25px;
+
+}
+.pais_empresa{
+  border: 1px solid #73879c;
+  width:440px;
+  margin-left:50px;
+  margin-top:5px;
+}
+.municipio_empresa{
+  border: 1px solid #73879c;
+  width:440px;
+  margin-left:490px;
+  margin-top:-25px;
+}
+.regimen{
+  border: 1px solid #73879c;
+  width:150px;
+  margin-left:50px;
+  margin-top:0px;
+}
+.cod{
+  border: 1px solid #73879c;
+  width:150px;
+  margin-left:200px;
+  margin-top:-25px;
+}
+.digitos{
+  border: 1px solid #73879c;
+  width:150px;
+  margin-left:350px;
+  margin-top:-25px;
+}
+.dig_contrato{
+  border: 1px solid #73879c;
+  width:150px;
+  margin-left:500px;
+  margin-top:-25px;
+}
+.actividad{
+  border: 1px solid #73879c;
+  width:280px;
+  margin-left:650px;
+  margin-top:-25px;
+}
+.ultimo{
+  margin-top:30px;
+}
+.culminar{
+    margin-left: 850px;
+    margin-top: -570px;
+    width: 100px;
+}
