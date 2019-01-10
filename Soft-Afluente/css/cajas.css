@@ -1,0 +1,111 @@
+.caja_principal{
+	background-color: #2e3141;
+	margin-top: 80px;
+	width: 100%;
+	height: 750px;
+}
+
+.title{
+	color: #fff;
+	font-size: 29px;
+	margin-top: 70px;
+	margin-left: 230px;
+	font-family: Calibri Light;
+}
+
+.linea12{
+	text-align: center;
+	color: #fff;
+}
+
+.tex{
+	margin-left: 230px;
+	font-size: 18px;
+	line-height: 30px;
+	width: 900px;
+	color: #c8c8c8;
+	font-family: Calibri Light;
+}
+
+.foto{
+	width: 400px;
+  height: 220px;
+  margin-left: 1px;
+  margin-top: 0px;
+	border-radius: 5px;
+}
+
+.primera{
+	width: 400px;
+	height: 480px;
+	background-color:#343849;
+	margin-top: 30px;
+	margin-left: 240px;
+	border-radius: 5px;
+	border-color: 1px solid #343847;
+	font-family: Calibri Light;
+}
+
+.segunda{
+	width: 400px;
+	height: 480px;
+	background-color:#343849;
+	margin-top: -480px;
+	margin-left: 710px;
+	border-radius: 5px;
+	border-color: 1px solid #343847;
+	font-family: Calibri Light;
+}
+
+.subti{
+	font-size: 22px;
+	margin-left: 30px;
+	color: #fff;
+	font-family: Calibri Light;
+}
+
+#uno{
+	margin-top: 6px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size:18px;
+	color: #fff;
+	line-height: 26px;
+	font-family: Calibri Light;
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.leer{
+	color: #dedede;
+	margin-left: 80px;
+	margin-top: 200px;
+	font-size: 17px;
+	width: 100px;
+	font-family: Calibri Light;
+	font-weight: bold
+	background-color: ;
+}
+
+.leer a {
+	text-decoration: none;
+}
+
+#contenido{
+	margin-top: 15px;
+	margin-left: 30px;
+	margin-right: 30px;
+	border-color:#a1a1a1;
+}
+
+.circulo {
+	border-radius: 100%;
+	border: 1px solid #dedede;
+	background-color: ;
+	margin-left: 50px;
+	margin-top: -40px;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+	color: #dedede;
+}

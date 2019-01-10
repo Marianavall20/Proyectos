@@ -1,0 +1,180 @@
+/*Imagagen de fondo*/
+.fondo1 {
+  background-image: url("../img/desenfoque.jpg");
+  background-size: 100% 1500px;
+  background-repeat: no-repeat;
+  -webkit-backdrop-filter: blur(10px); /* Safari 9+ */
+  /*background: -webkit-linear-gradient(left, pink, #2a3141);
+  color: #fff;
+  font-family: Calibri Light;*/
+  padding-bottom: 35px;
+  margin-bottom: -10px;
+  margin-top: -23px;
+}
+
+/*Caja 1*/
+.caja1 {
+  background-color: #30303d;
+  width: 1100px;
+  height: 300px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+  font-family: Calibri Light;
+  color: #fff;
+
+}
+
+.caja1 img {
+  width: 400px;
+  height: 300px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.caja1 .ti {
+  margin-top: -280px;
+  margin-left: 480px;
+  color: #fff;
+  font-size: 25px;
+}
+
+.caja1 #linea3 {
+  margin-left: 480px;
+  margin-top: 0px;
+}
+
+.caja1 p {
+  line-height: 28px;
+  margin-left: 480px;
+  margin-right: 50px;
+  text-align: justify;
+  margin-top: 25px;
+  color: #fff;
+  font-size: 17px;
+}
+
+/*Caja 2*/
+.caja2 {
+  background-color: #30303d;
+  width: 1100px;
+  height: 300px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 70px;
+  font-family: Calibri Light;
+  color: #fff;
+}
+
+.caja2 img {
+  width: 400px;
+  height: 300px;
+  float: right;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.caja2 .ti{
+  margin-left: 80px;
+  padding-top: 60px;
+   color: #fff;
+   font-size:25px; 
+}
+
+.caja2 #linea3 {
+  margin-left: 80px;
+  margin-top: 0px;
+}
+
+.caja2 .te {
+  line-height: 25px;
+  margin-left: 80px;
+  margin-right: 450px;
+  text-align: justify;
+  margin-top: 25px;
+  font-size: 18px;
+  color: #fff;
+}
+
+/*Caja 3*/
+.caja3 {
+  background-color: #30303d;
+  width: 1100px;
+  height: 300px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 70px;
+  font-family: Calibri Light;
+  color: #fff;
+}
+
+.caja3 img {
+  width: 400px;
+  height: 300px;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.caja3 .ti {
+  margin-top: -250px;
+  margin-left: 480px;
+  color: #fff;
+  font-size: 25px;
+}
+
+.caja3 #linea3 {
+  margin-left: 480px;
+  margin-top: -10px;
+}
+
+.caja3 .te {
+  line-height: 28px;
+  margin-left: 480px;
+  margin-right: 50px;
+  text-align: justify;
+  margin-top: 25px;
+  color: #fff;
+  font-size: 18px;
+}
+
+/*Caja 4*/
+.caja4 {
+  background-color: #30303d;
+  width: 1100px;
+  height: 300px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 70px;
+  font-family: Calibri Light;
+  color: #fff;
+}
+
+.caja4 img {
+  width: 400px;
+  height: 300px;
+  float: right;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+.caja4 .ti {
+  margin-left: 80px;
+  padding-top: 60px;
+  color: #fff;
+  font-size: 25px;
+}
+
+.caja4 #linea3 {
+  margin-left:80px;
+  margin-top: -10px;
+}
+
+.caja4 .te {
+  line-height: 28px;
+  margin-left: 80px;
+  margin-right: 450px;
+  text-align: justify;
+  margin-top: 25px;
+  font-size: 18px;
+  color: #fff;
+}

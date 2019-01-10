@@ -1,0 +1,36 @@
+#baile1{
+position: relative;
+width: 250px;
+height: 250px;
+left: 0px;
+}
+
+#baile2{
+position: relative;
+width: 250px;
+height: 250px;
+left: 660px;
+
+}
+#baile3{
+position: relative;
+width: 250px;
+height: 250px;
+margin-top: 350px;
+margin-left: -500px;
+}
+#baile4{
+position: relative;
+width: 250px;
+height: 250px;
+margin-top: 350px;
+left: 410px;
+
+}
+#baile5{
+position: relative;
+width: 660px;
+height: 850px;
+margin-left: -500px;
+z-index: 100;
+}

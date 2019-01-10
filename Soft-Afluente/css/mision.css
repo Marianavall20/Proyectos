@@ -1,0 +1,63 @@
+
+
+div.mision{
+	background-color:#fff;
+	text-align: justify;
+	position: relative;
+	margin-left: 160px;
+	margin-top:0px;
+	width: 510px;
+	height: 320px;
+	margin-bottom: 180px;}
+
+
+
+div.vision{
+	background-color:#fff ;
+	text-align: justify;
+	position: relative;
+	margin-left: 660px;
+	margin-top: -500px;
+    width: 510px;
+    height: 320px;
+    border-left: 1px solid;
+    border-color: #6E6E6E;
+    margin-bottom: 180px;
+}
+
+h5{
+	text-align: center;
+	font-size: 25px;
+	margin-top: -80px;
+	margin-left: 60px;
+	position: relative;
+	color: #383535
+
+}
+
+.conte{
+	width: 400px;
+	margin-left: 50px;
+	margin-top: 40px;
+	color: #777;
+}
+
+div.titu{
+	margin-top: 40px;
+
+}
+
+.mision_img{
+	width: 60px;
+	height: 70px;
+	margin-left: 105px;
+	margin-top: 15px;
+	
+}
+
+.img1{
+	height: 75px;
+	width: 75px;
+	margin-top: 12px;
+	margin-left: 70px;
+}

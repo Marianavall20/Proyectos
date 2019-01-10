@@ -1,0 +1,228 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body{
+
+	font-family: 'Open sans', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+.wrap{
+	width: 90%;
+	max-width: 1170px;
+	margin: 50px auto;
+}
+.Images{
+	background-size: 500px;
+}
+.miswitch{
+	border: 1px solid #225B78;
+	border-radius: 20px;
+	color: #fff;
+	position: relative;
+	margin: 0px auto 50px;
+	width: 200px;
+	overflow: hidden;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.miswitch a{
+	font-size: 14px;
+	z-index: 2;
+	position: relative;
+	width: 50%;
+	text-align: center;
+	cursor: pointer;
+}
+
+.swicht-btn{
+	position: absolute;
+	background: #0C1F28;
+	width: 50%;
+	height: 90%;
+	border-radius: 20px;
+	top: 2px;
+	left: 2px;
+	z-index: 1;
+	transition: all .5s;
+}
+
+.on{
+	left: 97px;
+}
+
+/* Tabla de precio*/
+
+.pricing-wrap{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.pricing-table{
+	width: 32%;
+	transition: transform .5s ease;
+
+	-webkit-perspective: 2000px;
+	perspective: 2000px;
+}
+
+.pricing-table:hover{
+	transform: scale(1.07);
+}
+
+.pricing-table-cont{
+	background: #fff;
+	text-align: center;
+	position: relative;
+	height: 500px;
+
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+
+	transition: .3s ease;
+}
+.pricing-table-contenido{
+margin-top: -24px;
+background-color: #fff;
+text-align: center;
+margin-right: 65px;
+
+}
+
+
+
+
+
+
+.pricing-table-head{
+	color: #173D50;
+	background-image: url("../img/mata.jpg");
+	background-size: 500px 400px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.pricing-table-head1{
+	color: #173D50;
+
+	background-image: url(../img/pala.jpg);
+	background-size: 500px 400px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.pricing-table-head2{
+	color: #173D50;
+
+	background-image: url(../img/mano.jpg);
+	background-size: 500px 450px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.pricing-table-head h2{
+	font-size: 16px;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+
+
+h3 {
+    font-size: 25px;
+    line-height: 1.8em;
+    letter-spacing: -0.025em;
+    color: #646464;
+    font-weight: 50;
+    line-height: 1em;
+    padding-top: 40px;
+        -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+
+.pricing-table-button{
+	display: block;
+	width: 100%;
+	padding-top:-20px ;
+	padding-left: 20px;
+	padding-right:20px;
+	background: #fff;
+	color: #646464;
+	margin-top: 23px;
+	vertical-align: baseline;
+
+
+}
+
+ .button{
+ 	-moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    background-color: #fff;
+    border-radius: 6px;
+    border: 2px solid  #D8D8D8;
+    color: #646464;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    height: 3em;
+    line-height: 3em;
+    padding: 0 2em;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    margin-top: 30px;
+ }
+
+a{
+
+    border-bottom: dotted 1px;
+    color: #e89980;
+    text-decoration: none;
+}
+.pricing-table-button.estandar{
+	background: #E97D68;
+}
+
+/* RESPONSIVE ===============================  */
+@media screen and (max-width: 750px){
+	.pricing-table{
+		width: 72%;
+		margin-bottom: 20px;
+	}
+
+	.pricing-wrap{
+		justify-content: center;
+	}
+
+	.pricing-table:hover{
+		transform: scale(1.0) ;
+	}
+}
+
+@media screen and (max-width: 500px){
+	.pricing-table{
+		width: 90%;
+	}
+}

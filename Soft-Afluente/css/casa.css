@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin: 0;
+
+
+}
+
+.casa{
+	width: 100%;
+	height: 500px;
+	margin-top: -70px;
+	
+}
+
+.imagen{
+	width: 350px;
+	height: 360px;
+	border-radius: 200px;
+	float: right;
+	margin-right: 70px;
+	margin-top: 10px;
+}
+
+.titulo11 {
+	font-family: ;
+	margin-top: 140px;
+	margin-left: 70px;
+	font-size: 28px;
+	color: #000;
+}
+
+.sub11{
+	margin-top: -10px;
+	margin-left: 70px;
+	font-size: 20px;
+	font-family: ;
+
+}
+
+.linea11{
+	margin-left: 70px;
+}
+
+.texto1{
+	margin-left: 70px;
+	margin-top: 5px;
+	font-size: 17px;
+	line-height: 25px;
+	font-family: ;
+	text-align: ;
+	width: 60%;
+}
+
+.ver{
+	font-style: 22px;
+	margin-left: 70px;
+	padding: 7px;
+	width: 140px;
+	border: solid 0.2px;
+	background-color:;
+	list-style: none;
+	text-decoration: none;
+}

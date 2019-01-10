@@ -1,0 +1,149 @@
+/**Edita div general de caudales**/
+div.caudales{
+	height: 550px;
+	margin-top: -40px;
+	background-color:#00b19c;
+	color: #383535;
+}
+
+.infor{
+	color: #383535;
+
+}
+
+/**Edita div de caudal alto**/
+div.alto{
+	width: 210px;
+	margin-left: 265px;
+	margin-top: 320px;
+	text-align: justify;
+	position: absolute;
+	color: #383535;
+}
+
+
+/**Edita div de caudal medio**/
+div.medio{
+	width: 210px;
+	margin-left: 550px;
+	margin-top: 320px;
+	text-align: justify;
+	position: absolute;
+}
+/**Edita div de caudal bajo**/
+div.bajo{
+	width: 210px;
+	margin-left: 820px;
+	margin-top: 320px;
+	text-align: justify;
+	position: absolute;
+}
+/**Edita titulo de cada div**/
+.t1{
+	text-align: center;
+	color: #383535;
+	font-size: 23px;
+}
+
+div.circulo1{
+	background-color: #6E6E6E;
+	border-style: solid;
+	border-color:#fff;
+	width: 150px;
+	height: 150px;
+	margin-left: 300px;
+	margin-top: -480px;
+	border-radius: 100px;
+	position: absolute;
+	opacity:0.2;
+
+
+}
+
+div.circulo2{
+	background-color: #6E6E6E;
+	width: 150px;
+	height: 150px;
+	margin-left: 580px;
+	margin-top: -480px;
+	border-radius: 100px;
+	position: absolute;
+	opacity: 0.2;
+	border-style: solid;
+	border-color:#fff;
+}
+div.circulo3{
+	background-color: #6E6E6E;
+	width: 150px;
+	height: 150px;
+	margin-left: 870px;
+	margin-top: -480px;
+	border-radius: 100px;
+	position: absolute;
+	opacity: 0.2;
+	border-style: solid;
+	border-color:#fff;
+}
+
+hr.linea1{
+	transform: rotate(90deg);
+    border-width: 2px;
+	margin-top: 60px;
+	width: 64px;
+	margin-left: 42px;
+}
+
+div.circle1{
+	width: 20px;
+	height: 20px;
+	border-radius: 100px;
+	background-color: #fff;
+	margin-top: 32px;
+	margin-left: 65px;
+	opacity: 0.2px;
+
+}
+
+hr.linea2{
+	transform: rotate(90deg);
+    border-width: 2px;
+	margin-top: 60px;
+	width: 64px;
+	margin-left: 42px;
+}
+
+div.circle2{
+	width: 20px;
+	height: 20px;
+	border-radius: 100px;
+	background-color: #fff;
+	margin-top: 32px;
+	margin-left: 65px;
+	opacity: 0.2px;
+
+}
+
+hr.linea3{
+	transform: rotate(90deg);
+    border-width: 2px;
+	margin-top: 60px;
+	width: 64px;
+	margin-left: 42px;
+}
+
+div.circle3{
+	width: 20px;
+	height: 20px;
+	border-radius: 100px;
+	background-color: #fff;
+	margin-top: 32px;
+	margin-left: 65px;
+	opacity: 0.2px;
+}
+
+img{
+	width: 90px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 30px;
+}
